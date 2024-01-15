@@ -1,0 +1,3 @@
+A_Frivolous_Accent_Map_Name= HELP!
+A_Frivolous_Accent_End_Poem= Crystal Caverns Complete!
+Crystal_Caverns_Credits= {>> 256}HELP - Version 1.0.0 - Finlay Leman{>>}
